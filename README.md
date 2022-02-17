@@ -1,5 +1,5 @@
 # Library-Management-System-HCL
 
 ## Project Details
-### Team - 01
-### 
+#### Team - 01
+#### Technologies - Java 
